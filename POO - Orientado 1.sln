@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_Alumnos_UI", "Lista_Alumnos\Lista_Alumnos_UI.csproj", "{A5D5A9A4-4EC8-44A5-900E-DA0A60DF4DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{48663FAA-D12F-456A-9137-5B3320532953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D5A9A4-4EC8-44A5-900E-DA0A60DF4DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D5A9A4-4EC8-44A5-900E-DA0A60DF4DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D5A9A4-4EC8-44A5-900E-DA0A60DF4DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D5A9A4-4EC8-44A5-900E-DA0A60DF4DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48663FAA-D12F-456A-9137-5B3320532953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48663FAA-D12F-456A-9137-5B3320532953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48663FAA-D12F-456A-9137-5B3320532953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48663FAA-D12F-456A-9137-5B3320532953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D328BA1-E26E-49CA-9861-C46F30DD0CAA}
+	EndGlobalSection
+EndGlobal
